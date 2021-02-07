@@ -1,0 +1,26 @@
+== History of Scrum
+
+[%step]
+- *1986*: Scrum appears in *The New New Product Development Game*.
+- *1990*: it was developed in the early 1990s.
+- *1995*: it was presented at the OOPSLA Conference.
+- *2010*: first version of the Scrum Guide is published.
+- *2017*: previous release of The Scrum Guide.
+- *2020*: current release of The Scrum Guide.
+
+[.refs]
+--
+- https://en.wikipedia.org/wiki/Scrum_%28software_development%29#History[Scrum
+  History on wikipedia]
+- https://www.scrumguides.org/revisions.html[Scrum Guide Revision History]
+--
+
+[.notes]
+--
+- about 30 years now.
+-Hirotaka Takeuchi* & *Ikujiro Nonaka* used the word *Scrum* first.
+- Pretend to have strongly influenced *The Manifesto for Agile Software
+  Development*.
+- Not updated every year.
+- Certification by *ScrumAlliance* or *Scrum.org*.
+--
