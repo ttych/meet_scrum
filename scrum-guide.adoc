@@ -1,0 +1,58 @@
+[.columns]
+== The Scrum Guide
+
+[.column]
+--
+[step=1]
+by https://www.scrumalliance.org/community/profile/jsutherland[**Jeff
+Sutherland**]
+[step=2]
+https://www.scrumalliance.org/[ScrumAlliance]
+--
+
+[.column]
+--
+[step=1]
+by https://kenschwaber.wordpress.com/[**Ken Schwaber**]
+[step=2]
+https://www.scrum.org[Scrum.org]
+--
+
+[.refs]
+--
+* https://www.scrumguides.org/[The Scrum Guide site]
+* https://agilemanifesto.org/[Manifesto for Agile Software Development]
+--
+
+[.notes]
+--
+* Jeff & Ken: Co-author of The Manifesto for Agile Software Development
+* Ken Schwaber: *left* Scrum Alliance *for* Scrum.org
+--
+
+=== The official reference !
+
+* Published on https://www.scrumguides.org/.
+* Freely accessible.
+* Latest release *November 2020*.
+* Available in more than 30 languages.
+* *13 pages only !*
+
+[.refs]
+--
+* https://www.scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf[The
+  Scum Guide (en_US)]
+* https://www.scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-French.pdf[The
+  Scrum Guide (FR)]
+--
+
+[.notes]
+--
+* Subtitle: The Rules of the Games
+* Not updated every year.
+* Last update: 2017.
+* Translator team: non-official, volunteer.
+* 13 page: every word counts !
+--
+
+// === Other references
