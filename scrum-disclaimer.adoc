@@ -1,0 +1,70 @@
+== Disclaimer
+
+[WARNING]
+[%hardbreaks]
+While implementing only parts of Scrum is possible,
+*the result is not Scrum*.
+Scrum exists only in its entirety.
+
+[.notes]
+--
+- warning at the beginning (2nd page) AND end (last page) of the Scrum
+  Guide.
+- keep in mind this, while _inspecting_ Scrum :
+  - what each element brings : value
+  - why not applicable ? : loss
+  - why not apply it ? : loss
+--
+
+[%notitle]
+=== Disclaimer Quote part 1
+
+[quote]
+--
+Each element of the framework serves a specific purpose that is
+essential to the overall value and results realized with
+Scrum. Changing the core design or ideas of Scrum, leaving out
+elements, or not following the rules of Scrum, covers up problems
+and limits the benefits of Scrum, potentially evenrendering it
+useless.
+--
+
+[.notes]
+--
+in short:
+- *do not remove*
+- *do not modify*
+--
+
+[%notitle]
+=== Disclaimer Quote part 2
+
+[quote]
+--
+As Scrum is being used, patterns, processes, and insights that fit
+the Scrum framework as described in this document, may be found,
+applied and devised.
+--
+
+[.notes]
+--
+in short:
+- *you can add in / extend*
+--
+
+[%notitle]
+=== Disclaimer Quote part 3
+
+[quote]
+--
+While implementing only parts of Scrum is possible, the result is
+not Scrum. Scrum exists only in its entirety and functions well as a
+container for other techniques, methodologies, and practices.
+--
+
+[.notes]
+--
+Scrum is a container.
+
+If you fissure it, the value of it will go away.
+--
