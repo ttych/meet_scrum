@@ -72,10 +72,9 @@ Refinement :
 
 === Sprint Backlog & Sprint Goal
 
-It is composed of :
-- the Sprint Goal (why)
-- the selected Product Backlog items (what)
-- an actionable plan for delivering the Increment (how)
+- the Sprint Goal (the why)
+- the selected Product Backlog items (the what)
+- an actionable plan for delivering the Increment (the how)
 
 [.notes]
 --
