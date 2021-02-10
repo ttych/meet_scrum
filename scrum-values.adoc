@@ -1,0 +1,44 @@
+== Scrum Values
+
+[%step]
+Mindset enabler for a successful use of Scrum.
+[%step]
+Enabler for the Scrum Pillars.
+[%step]
+Scrum Values + Scrum Pillars = Trust.
+
+[.notes]
+--
+For a successful use of Scrum :
+- Events + Artifacts that relies on Pillars.
+- Pillars rely on Values.
+- Values are embodied by The Scrum Team.
+--
+
+=== 5 Values
+
+[%step]
+- Commitment
+[%step]
+- Focus
+[%step]
+- Openness
+[%step]
+- Respect
+[%step]
+- Courage
+
+[.notes]
+--
+- Commitment: to its goals and supporting each other.
+- Focus: 1st focus is on the sprint content to make the best possible
+  progress toward these goals
+- Openness: open on the work and challenges
+- Respect: each other (people are capable & independent)
+- Courage: to do the right thing, work on tough problems
+--
+
+[%notitle]
+=== Values diagram
+
+image::https://www.pngkit.com/png/detail/495-4954929_june-18-2018-scrum-pillars-and-values.png[background,size=contain]

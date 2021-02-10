@@ -47,3 +47,7 @@ DIV.refs LI:hover P A {
     text-decoration: underline;
     color: blue;
 }
+
+div.margin-left-25 {
+    margin-left: 25%;
+}

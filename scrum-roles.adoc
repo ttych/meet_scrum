@@ -1,0 +1,158 @@
+== Scrum Roles
+
+[%step]
+Each role has it own *accountability*.
+
+[.columns]
+=== The Scrum Team
+
+[%step]
+[.column]
+--
+.Composed of
+- 1 scrum master
+- 1 product owner
+- developers
+--
+
+[%step]
+[.column]
+--
+.Organized
+- no sub-teams / hierarchies
+- focused
+- self-managing
+- cross-functional
+- sustainable
+--
+
+[.notes]
+--
+.a small team
+- 3 < x < 10
+- smaller teams communicate better and are more productive
+
+.organized
+- focused on the Product Goal
+- self-managing: decide who does what, when, and how
+- working at a sustainable pace
+- as a cohesive unit
+--
+
+[.columns]
+=== The Scrum Team
+
+[.column]
+--
+[%step]
+Responsible for:
+[%step]
+- all product-related activities
+--
+
+[.column]
+--
+[%step]
+Accountable for:
+[%step]
+- creating a valuable, useful Increment every Sprint
+[%step]
+- inspecting the results and adapting
+--
+
+[.notes]
+--
+.Responsible for
+- all product-related activities from stakeholder collaboration,
+  verification, maintenance, operation, experimentation, research and
+  development, and anything else that might be required
+
+.Accountable for
+- creating a valuable, useful Increment every Sprint
+- inspecting the results and adapting for the next Sprint
+--
+
+=== The Product Owner
+
+- Product owner is 1 person, representing many stakeholders.
+- The entire organization must respect the Product Owner decisions.
+
+- Focus on value.
+
+=== The Product Owner
+
+.Accountable for
+- Developing and explicitly communicating the Product Goal
+- Creating and clearly communicating Product Backlog items
+- Ordering Product Backlog
+- Ensuring that the Product Backlog is transparent, visible and
+  understood.
+
+[.notes]
+--
+.Accountable for effective product backlog management
+- Developing and explicitly communicating the Product Goal
+- Creating and clearly communicating Product Backlog items
+- Ordering Product Backlog
+- Ensuring that the Product Backlog is transparent, visible and
+  understood.
+--
+
+=== The Developers
+
+Developers are committed to create usable Increment each Sprint.
+
+Focus on quality.
+
+=== The Developers
+
+.Accountable for
+- creating a plan for the Sprint, the Sprint Backlog
+- instilling quality by adhering to a Definition of Done
+- adapting their plan each day toward the Sprint Goal
+- holding each other accountable as professionals
+
+=== The Scrum Master
+
+- Help understand Scrum in the team and in the organization.
+- The Scrum master is a Servant-Leader for the Scrum Team and the
+  larger organization.
+
+- Focus on effectiveness.
+
+=== The Scrum Master
+
+.Accountable for
+- establishing Scrum as defined in the Scrum Guide
+- the Scrum Team's effectiveness
+
+=== The Scrum Master
+
+.Serving the team by
+- Coaching the team members in self-management and cross-functionality
+- Helping the Scrum Team focus on creating high-value Increments that
+meet the Definition of Done
+- Causing the removal of impediments to the Scrum Team’s progress
+- Ensuring that all Scrum events take place and are positive,
+  productive, and kept within the time-box.
+
+=== The Scrum Master
+
+.Serving the product owner by
+- Helping find techniques for effective Product Goal definition and
+Product Backlog management
+- Helping the Scrum Team understand the need for clear and concise
+Product Backlog items
+- Helping establish empirical product planning for a complex
+environment
+- Facilitating stakeholder collaboration as requested or needed
+
+=== The Scrum Master
+
+.Serving the organization by
+- Leading, training, and coaching the organization in its Scrum
+adoption
+- Planning and advising Scrum implementations within the organization
+- Helping employees and stakeholders understand and enact an empirical
+approach for complex work
+- Removing barriers between stakeholders and Scrum Teams

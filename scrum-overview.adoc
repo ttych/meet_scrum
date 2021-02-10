@@ -1,0 +1,19 @@
+[%notitle]
+
+== Overview
+
+image::https://nkdagility.com/wp-content/uploads/2020/11/naked-Agility-Scrum-Framework.jpg[background,size=contain]
+
+[.notes]
+--
+in a nutshell,
+
+A Scrum Master foster an environment where:
+
+. A *Product Owner* *orders* the work into a *Product Backlog*.
+. The *Scrum Team* turns a selection of the work into an *Increment* of
+*value* during a *Sprint*.
+. The *Scrum Team* and its stakeholders *inspect* the results and
+*adjust* for the next Sprint.
+. *Repeat*.
+--

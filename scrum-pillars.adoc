@@ -1,0 +1,57 @@
+== Scrum Pillars
+
+[%step]
+- Transparency
+[%step]
+- Inspection (Learn)
+[%step]
+- Adaptation (Adjust)
+
+[.notes]
+--
+- Transparency in: process / work / artifacts.
+- Inspection: frequently, detect variances / problems.
+- Adaptation: as soon as possible, minimize deviation.
+--
+
+=== Pillars Flow
+
+Transparency -> Inspection -> Adaptation
+
+[.notes]
+--
+.Flow:
+- Transparency enables inspection.
+- Inspection enables adaptation.
+--
+
+=== Warning 1/3 : No Transparency
+
+Inspection without transparency is *misleading* and *wasteful*.
+
+[.notes]
+--
+- inspection without burn-down chart ?
+- inspection without up2date, clear sprint backlog ?
+- increment without DOD ?
+--
+
+=== Warning 2/3 : No adaptation
+
+Inspection without adaptation is considered *pointless*.
+
+[.notes]
+--
+- daily with a raised problem without adjustment ?
+- retrospective without actionable ?
+--
+
+=== Warning 3/3 : Low transparency
+
+- diminish outcome values of inspection
+- can lead to decisions that diminish value and increase risk
+
+[%notitle]
+=== Pillars diagram
+
+image::https://www.pngkit.com/png/detail/495-4954929_june-18-2018-scrum-pillars-and-values.png[background,size=contain]

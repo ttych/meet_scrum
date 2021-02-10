@@ -49,7 +49,7 @@ build_background()
     fi
 )
 
-http_start()
+httpd_start()
 {
     if ! pgrep -F httpd.pid >/dev/null 2>/dev/null; then
         ruby -run -ehttpd "${BUILD_DIR}" -p "${BUILD_PORT}" &
@@ -88,6 +88,6 @@ build_revealjs()
 build_gemfile &&
     build_revealjs &&
     build &&
-    http_start &&
+    httpd_start &&
     browse_build &&
     build_background

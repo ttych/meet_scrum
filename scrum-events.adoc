@@ -1,0 +1,215 @@
+== Scrum Events
+
+[%step]
+4 formal events +
+[%step]
+for *inspection* and *adaptation* +
+[%step]
+within a containing event, +
+[%step]
+the *Sprint*. +
+
+[.notes]
+--
+Events are:
+
+- an opportunity to inspect and adapt Scrum artifacts.
+- used to create regularity.
+- minimize the needs for other meetings.
+- designed to provoke change.
+
+To reduce complexity, all events are held:
+
+- at the same time
+- at the same place
+--
+
+=== Sprint
+
+- Fixed length events (< 1 month)
+- repeatable
+- a learning cycle
+
+[.notes]
+--
+- 1 week to 1 month
+- experiment, learn from experiment
+- iterative, incremental
+- progress forecast: burn-downs, burn-ups, or cumulative flows.Forecast
+--
+
+=== Sprint Content
+
+Contains the following ordered events:
+
+. Sprint Planning
+. Daily Scrum
+. Sprint Review
+. Sprint Retrospective
+
+[.notes]
+--
+--
+
+=== Sprint Rules
+
+- No changes that endanger the Sprint Goal
+- Quality does not decrease
+- The Product Backlog is refined as needed
+- Clarify/Renegotiate scope with the Product Owner
+- Can by canceled by the Product Owner
+
+[.notes]
+--
+.Scope Renegotiated
+- Scope may be clarified and renegotiated with the Product Owner as
+  more is learned.
+
+.Cancel
+- if the Sprint Goal becomes obsolete
+- only the Product Owner has the authority to cancel
+--
+
+=== Sprint Planning
+
+[.text-left.margin-left-25]
+--
+*Purpose*: [.step]#have a plan for the current sprint# +
+*When*: [.step]#it initiates the Sprint# +
+*Who*: [.step]#Scrum Team# +
+*What*: [.step]#Why this sprint ? What can be done ? How get it done ?# +
+*Outcome*: [.step]#the Sprint Backlog (goal, items, plan)# +
+*Length*: [.step]#8 hours for a 4 weeks sprint# +
+--
+
+[.notes]
+--
+.Preparation
+- prepare most important Product Backlog items (how they map to the Product Goal)
+- team knows about their velocity, their upcoming capacity
+
+.What
+- Why is this Sprint valuable? =>
+  - Product Owner: proposes how the product could increase its value and utility
+  - Scrum Team: define the Sprint Goal
+- What can be Done this Sprint?
+  - Scrum Team: refine backlog item to increase understanding and confidence
+- How will the chosen work get done?
+  - Developers: create increment that meets DOD
+  - Developers: decomposing Product Backlog items into smaller work
+    items of one day or less
+
+.Sprint Backlog
+- a plan created by the collaborative work of the entire Scrum Team
+- Sprint Backlog = Sprint Goal + the Product Backlog items selected for the Sprint
+
+.Length
+- 8 hours for 4 weeks sprint
+- 4 hours for 2 weeks sprint
+--
+
+=== Daily Scrum
+
+[.text-left.margin-left-25]
+--
+*Purpose*: [.step]#adapt the Sprint Backlog as necessary# +
+*When*: [.step]#every day# +
+*Who*: [.step]#Developers# +
+*What*: [.step]#focus, next day action plan, inspect & adapt# +
+*Outcome*: [.step]#adjusted sprint backlog# +
+*Length*: [.step]#15 min (max.)# +
+--
+
+[.notes]
+--
+.purpose
+- improve communication
+- identify impediments
+- promote quick decision-making (eliminate the need for other
+  meetings)
+- adapt the Sprint Backlog as necessary
+
+.when
+- every day
+- at the same time, at the same place (to reduce complexity)
+
+.What
+- focus on progress toward the sprint goal
+- action plan for the next day of work
+- inspect progress and adapt sprint backlog
+
+.Outcome
+- adjusted sprint backlog
+- adjusted upcomming planned work
+--
+
+=== Sprint Review
+
+[.text-left.margin-left-25]
+--
+*Purpose*: [.step]#inspect sprint outcome & determine adaptations# +
+*When*: [.step]#the second to last event of the Sprint# +
+*Who*: [.step]#Scrum Team & Stakeholders# +
+*What*: [.step]#present & collect feedback# +
+*Outcome*: [.step]#adjusted product backlog# +
+*Length*: [.step]#4 hours for a 4 weeks sprint# +
+--
+
+[.notes]
+--
+.Purpose
+- inspect the outcome of the sprint (the what)
+- determine future product adaptations
+
+.When
+- the second to last event of the Sprint
+
+.What
+- do a presentation
+- collect feedback
+
+.Outcome
+- what to do next
+- adjusted product backlog
+
+.Length
+- 4 hours for 4 weeks sprint
+- 2 hours for 2 weeks sprint
+--
+
+=== Sprint Retrospective
+
+[.text-left.margin-left-25]
+--
+*Purpose*: [.step]#plan ways to increase quality and effectiveness# +
+*When*: [.step]#conclude the Sprint# +
+*Who*: [.step]#Scrum Team# +
+*What*: [.step]#inspect individuals, interactions, processes, tools, DoD# +
+*Outcome*: [.step]#identify changes to improve effectiveness# +
+*Length*: [.step]#3 hours for a 4 weeks sprint# +
+--
+
+[.notes]
+--
+.Purpose
+- plan ways to increase quality and effectiveness (the how)
+
+.When
+- conclude the Sprint
+
+.What
+- inspect the last Sprint
+- how it went with regards to individuals, interactions, processes,
+  tools, and their Definition of Done
+- what went well ? which problems encountered ? how those problems
+  were (or were not) solved ?
+
+.Outcome
+- identify the most helpful changes to improve its effectiveness
+- the most impactful improvements are addressed as soon as possible
+  (sprint backlog)
+
+.Length
+- 3 hours for 4 weeks sprint
+- 1 hours 30 for 2 weeks sprint
+--

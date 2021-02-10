@@ -1,0 +1,112 @@
+== Scrum Artifacts
+
+[%step]
+- To represent *work* or *value*.
+[%step]
+- maximize *transparency* of *key information*.
+[%step]
+- maximize *focus*.
+
+[.notes]
+--
+--
+
+[.columns]
+=== Artifact & Commitment
+
+[.column]
+--
+[%step]
+*Product Backlog*
+[%step]
+*Product Goal*
+--
+
+[.column]
+--
+[%step]
+*Sprint Backlog*
+[%step]
+*Sprint Goal*
+--
+
+[.column]
+--
+[%step]
+*Increment*
+[%step]
+*Definition of Done*
+--
+
+[.notes]
+--
+- each *Artifact* contains a *commitment*.
+--
+
+=== A Product
+
+> A product is a vehicle to deliver value. It has a clear boundary,
+> known stakeholders, well-defined users or customers. A product could
+> be a service, a physical product, or something more abstract.
+
+=== Product Backlog & Product Goal
+
+- *ordered* list of needed item to improve product.
+- *emergent* list.
+- the *single source* of work undertaken.
+
+[.notes]
+--
+Product Goal:
+
+- transparency
+- long-term objective for the Scrum Team
+- must fulfill (or abandon) one objective before taking on the next
+
+Refinement :
+
+- breaking down items into smaller more precise
+- ongoing activity
+- add details: description, order, size
+--
+
+=== Sprint Backlog & Sprint Goal
+
+It is composed of :
+- the Sprint Goal (why)
+- the selected Product Backlog items (what)
+- an actionable plan for delivering the Increment (how)
+
+[.notes]
+--
+- a plan by and for the Developers
+- highly visible, real-time picture of the work
+
+Sprint Goal:
+
+- transparency
+- creates coherence and focus
+- encouraging the Scrum Team to work together rather than on separate
+  initiatives
+- provides flexibility in terms of the exact work needed to achieve it
+--
+
+=== Increment & Definition of Done
+
+> The moment a Product Backlog item meets the Definition of Done,
+> an Increment is born.
+
+[.notes]
+--
+- a concrete stepping stone toward the Product Goal
+- additive to all prior Increments (incremental)
+- verified (all Increments work together)
+- usable
+- delivered to stakeholders
+- meets the Definition of Done
+
+Commitment : The Definition of Done
+- transparency
+- formal description of the state of the Increment
+  when it meets the quality measures required for the product
+--

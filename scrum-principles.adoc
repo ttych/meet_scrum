@@ -1,0 +1,73 @@
+== Principles
+
+[%hardbreaks]
+[%step]
+Scrum is a *lightweight* *framework*
+[%step]
+that helps *people*, *teams* and *organizations*
+[%step]
+generate *value*
+[%step]
+through *adaptive* solutions
+[%step]
+for *complex* problems.
+
+[.notes]
+--
+- lightweight: focus on simplicity
+- framework: a skeleton, add into
+- people, teams, organizations: scrum does not produce value
+- adaptive: always inspect and adapt the product and the way to
+  produce
+- complex: not complicated
+--
+
+[.columns]
+=== Scrum Theory
+
+[.column]
+--
+[%step]
+Scrum is founded on:
+[%step]
+- empiricism
+[%step]
+- lean thinking
+--
+
+[.column]
+--
+[%step]
+Scrum approach is:
+[%step]
+- iterative
+[%step]
+- incremental
+--
+
+[.notes]
+--
+- empiricism: let people experiment, inspect, then adapt.
+  knowledge comes from experience.
+- lean thinking: focus, focus, focus on the essentials.
+  reduce waste and focuses on the essentials.
+- iterative: work by repetitive refinement.
+- incremental: take small steps.
+--
+
+=== Scrum is composed of
+
+[%step]
+- **3 pillars**
+[%step]
+- **5 values**
+[%step]
+- **3 roles**
+[%step]
+- **4 events**
+[%step]
+- **3 artifacts**
+
+[.notes]
+--
+--
