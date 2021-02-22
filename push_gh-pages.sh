@@ -9,8 +9,9 @@ PUSH_BRANCH="${2:-gh-pages}"
 PUSH_STATUS=0
 PUSH_INIT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
 
-git branch -a | grep origin/${BRANCH} >/dev/null &&
+if git branch -a | grep "origin/${PUSH_BRANCH}" >/dev/null; then
     git branch -f -d "${PUSH_BRANCH}" || exit 1
+fi
 
 git --git-dir=.git --work-tree="${PUSH_DIR}" checkout --orphan "${PUSH_BRANCH}" &&
     git --git-dir=.git --work-tree="${PUSH_DIR}" add --all &&
